@@ -1,5 +1,5 @@
 ### Hi there I'm chiacyu👋
-
+🌱  I’m currently learning linux kernel and high performance computing.
 <!--
 **chiacyu/chiacyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
