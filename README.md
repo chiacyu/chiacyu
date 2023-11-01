@@ -1,5 +1,5 @@
 ### Hi there I'm chiacyu👋
-🌱  I’m currently learning networking in Linux kernel.
+🌱  I’m currently learning Linux networking-related technology.
 <!--
 **chiacyu/chiacyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
